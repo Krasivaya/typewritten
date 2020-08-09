@@ -1,4 +1,4 @@
-# `❯ _` typewritten - a minimal zsh prompt theme
+# `❯ _` typewritten - a minimal zsh prompt 
 
 Leaves all the room for what's important.  
 
