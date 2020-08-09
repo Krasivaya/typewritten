@@ -1,6 +1,6 @@
 # `❯ _` typewritten - a minimal zsh prompt theme
 
-Leaves all the room for what's important.
+Leaves all the room for what's important.  
 
 <p align="center">
   <img src="media/typewritten.gif?raw=true" alt="typewritten zsh prompt demo" />
